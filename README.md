@@ -11,17 +11,11 @@ Currently, I'm diving deep into **Django**, **JavaScript frameworks**, and build
 - **Databases**: MySQL
 - **Tools**: Git, GitHub, VS Code, Docker, Figma
 
-## 🌱 Current Projects
-- **Course Registration System**: A web-based portal for course registration with dynamic GPA calculations and unit limits.
-- **Wine Shop Website**: Full e-commerce site with product listings, cart functionality, and secure checkout.
-- **Predictive Analytics for Healthcare**: Using data-driven models to enhance decision-making in healthcare.
-
 ## 📚 What I'm Learning
 - **AI & Machine Learning** (working on AI-driven projects)
 - **Web Design** (exploring Figma and UI/UX design principles)
 
 ## 🤝 Let's Connect
-- 📧 Email: donzelefachit@gmail.com
 - 🦸‍♂️ LinkedIn: www.linkedin.com/in/donzel-asira-99b5a3365
 
 ---
